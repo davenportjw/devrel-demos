@@ -191,3 +191,5 @@ Thumbs.db
 *.mp3
 # Gemini CLI
 .gemini/
+infrastructure/cross-region-demo/terraform/terraform.tfstate
+infrastructure/cross-region-demo/terraform/terraform.tfstate.backup
